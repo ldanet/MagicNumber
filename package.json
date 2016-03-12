@@ -1,0 +1,11 @@
+{
+  "name": "magic-number",
+  "version": "1.0.0",
+  "description": "Finds the magic number",
+  "main": "index.js",
+  "author": "Lydie Danet",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.6.1"
+  }
+}
